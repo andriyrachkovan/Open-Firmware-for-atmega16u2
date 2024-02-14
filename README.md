@@ -35,4 +35,5 @@ This firmware is released under the [CC0 1.0 Universal (CC0 1.0) Public Domain D
 
 Contact us at [andriy.rachkovan@gmail.com](mailto:andriy.rachkovan@gmail.com) if you have any questions or need assistance.
 
+
 Happy coding!
