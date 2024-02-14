@@ -33,6 +33,6 @@ Feel free to contribute to the development of this firmware. Check out the [cont
 
 This firmware is released under the [CC0 1.0 Universal (CC0 1.0) Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/). See the [LICENSE](LICENSE) file for details.
 
-Contact us if you have any questions or need assistance.
+Contact us at [andriy.rachkovan@gmail.com](mailto:andriy.rachkovan@gmail.com) if you have any questions or need assistance.
 
 Happy coding!
